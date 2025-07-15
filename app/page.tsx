@@ -2,7 +2,7 @@ import Link from "next/link";
 
 
 export default function Index() {
-  const dataStructures= ["binarysearch", "stack" , "queue"];
+  const dataStructures= ["binarysearch", "stack" , "queue" , "Avl"];
   return (
     <>
     <div className="">
